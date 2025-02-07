@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ravindu Aluvihare</h1>
-<h3 align="center">Tech Enthusiast</h3>
+<h3 align="center">Continuous Learning, Continuous Improvement🚀</h3>
+
+- 🌱 I’m currently learning **Java, Python, AWS, and Web Services**
+
+- 👨‍💻 All of my projects are available at [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+- ⚡ Fun fact **aliya**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
