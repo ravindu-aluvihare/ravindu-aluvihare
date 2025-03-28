@@ -1,5 +1,5 @@
-<h3 align="center">Code, Learn, Repeat 🔥<br> I'm<br><h1 align="center"> Ｒａｖｉｎｄｕ_Ａｌｕｖｉｈａｒｅ</h1></h3>
-<h3 align="center">Continuous Learning, Continuous Improvement🚀</h3>
+<h3 align="center"> I'm<br><h1 align="center"> Ｒａｖｉｎｄｕ_Ａｌｕｖｉｈａｒｅ</h1></h3>
+<h3 align="center">Code | Learn | Repeat </h3>
 
 
 
