@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Java, Python, AWS, and Web Services**
+- 🌱 I’m currently learning **Java, Python**
 
 - 👨‍💻 See my work in action [https://ravindu-aluvihare.github.io/ravindu_aluvihare/](https://ravindu-aluvihare.github.io/ravindu_aluvihare/)
 
